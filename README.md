@@ -1,6 +1,6 @@
 # UX220Final
 
-[Edit here](https://diy-pwa.dev/~/gh/rhildred/UX220Final)
+[Edit here](https://diy-pwa.dev/~/gh/chlloehung/UX220Final)
 
 Each question is worth 5 points
 
