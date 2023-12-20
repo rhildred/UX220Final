@@ -1,6 +1,6 @@
 # UX220Final
 
-[edit here](https://diy-pwa.dev/~/gh/mserra400/mserra400.github.io)
+[edit here](https://diy-pwa.dev/~/gh/mserra400/UX220Final)
 
 Each question is worth 5 points
 
