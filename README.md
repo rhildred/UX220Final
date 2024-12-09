@@ -4,7 +4,7 @@
 
 Each question is worth 5 points
 
-1. Compare and contrast the following 2 forms:
+## 1. Compare and contrast the following 2 forms:
 
 `<form action="http://localhost:3002/send/" method="post"> ... </form>`
 
@@ -17,7 +17,7 @@ The paragraphs in the html file should contain whether each will work on github 
 
 Note: It is fine for you to just use the url of the action attribute in your level 2 headings.
 
-2. The following code is for a simple magic 8 ball. Change the code so that:
+## 2. The following code is for a simple magic 8 ball. Change the code so that:
 
 a) before anything is typed in to the input there is a prompt in lighter text that says "ask me anything"
 
@@ -29,7 +29,7 @@ d) the answer is written in a handwriting font of your choosing from https://fon
 
 ![q2 sample output](readmeimages/q2.png)
 
-3. Put the following code in to a complete html page with a:
+## 3. Put the following code in to a complete html page with a:
 
 1) doctype declaration
 
@@ -48,12 +48,12 @@ d) the answer is written in a handwriting font of your choosing from https://fon
 
 ![q3 sample output](readmeimages/q3.png)
 
-4. List a total of 5 pros and cons of png related to jpg images. Use a <main> tag to enclose the 2 lists with appropriate level 
+## 4. List a total of 5 pros and cons of png related to jpg images. Use a <main> tag to enclose the 2 lists with appropriate level 
 headings for a screen reader as though the whole document is on this subject. For example:
 
 ![q4 sample output](readmeimages/q4.png)
 
-5. The snippet of html in q5.html produces different images for portrait and landscape orientations.
+## 5. The snippet of html in q5.html produces different images for portrait and landscape orientations.
 Make the image accessible on mobile by:
 
 a) adding a tag to make it scale 1 to 1
